@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cold-DataLord
-- 👀 I’m interested in Data Science, data annotation
+- 👀 I’m interested in Data Science, Data Annotation
 - 🌱 I’m currently learning Data analytics, Data science at IBM 
-- 💞️ I’m looking to collaborate on AI Data annotation, AI data training
+- 💞️ I’m looking to collaborate on AI Data Annotation, AI data training
 - 📫 How to reach me christrep01@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Die-hard learner and a solution provider
